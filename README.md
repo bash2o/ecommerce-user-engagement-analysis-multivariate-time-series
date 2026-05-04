@@ -86,3 +86,11 @@ The results can help improve KPI performance, optimize product strategies, and s
 ---
 
 ## 📂 Project Structure
+
+ecommerce-user-engagement-analysis-multivariate-time-series/
+│
+├── ecommerce_kpi_analysis.ipynb   # Main analysis notebook
+├── data/                                      # Dataset folder (if included)
+│   └── e-shop clothing 2008.csv
+├── images/                                    # Saved plots (optional)
+├── README.md                                  # Project documentation
