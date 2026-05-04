@@ -1,4 +1,4 @@
-Data description “e-shop clothing 2008”
+Data description â€œe-shop clothing 2008â€
 
 Variables:
 
@@ -143,10 +143,10 @@ the average price for the entire product category
 
 If you use this dataset, please cite:
 
-£apczyñski M., Bia³ow¹s S. (2013) Discovering Patterns of Users' Behaviour in an E-shop - 
+Â£apczyÃ±ski M., BiaÂ³owÂ¹s S. (2013) Discovering Patterns of Users' Behaviour in an E-shop - 
 Comparison of Consumer Buying Behaviours in Poland and Other European Countries, 
-“Studia Ekonomiczne”, nr 151, “La société de l'information : perspective européenne et 
-globale : les usages et les risques d'Internet pour les citoyens et les consommateurs”, p. 144-
+â€œStudia Ekonomiczneâ€, nr 151, â€œLa sociÃ©tÃ© de l'information : perspective europÃ©enne et 
+globale : les usages et les risques d'Internet pour les citoyens et les consommateursâ€, p. 144-
 153.
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
